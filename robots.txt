@@ -1,0 +1,4 @@
+Sitemap: https://arthronworld.com/sitemapindex.xml
+
+User-Agent: *
+Host: arthronworld.com
